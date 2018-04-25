@@ -13,7 +13,7 @@
 ### DFA
 #####################################
 
-MyName = 'Put your name here' ## please put your name here
+MyName = 'Duc Tran' ## please put your name here
 FunctionsIworkedOn = {'verifyDFA', 'verifyTM'} ## List all functions you are submitting here
 ### Any function you are not submitting for grading please leave
 ### it unmodified, as it was originally in this file. DO NOT DELETE IT
