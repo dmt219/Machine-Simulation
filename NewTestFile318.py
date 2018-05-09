@@ -6,7 +6,7 @@
 
 
 
-from InputFile318Skeleton import DFA, PDA, TM, NTM, MyName, FunctionsIworkedOn
+from InputFile318Tran import DFA, PDA, TM, NTM, MyName, FunctionsIworkedOn
 
 print(MyName)
 
